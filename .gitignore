@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Edge 浏览器临时配置文件（自动生成，体积大）
+EdgeTempProfile/
+
+# Cookie 文件（含登录凭据，勿提交）
+*.cookies.txt
+edge-temp-cookies.txt
+douyin-cookies.txt
+douyin-cookies-fixed.txt
+
+# 下载失败记录
+failed_urls.txt
+
+# 调试遗留的页面快照
+douyin-page.html
+douyin-cookie-warmup.html

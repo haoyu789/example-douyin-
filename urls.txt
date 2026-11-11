@@ -1,0 +1,3 @@
+# Paste one public Douyin share link per line.
+# Full pasted Douyin share text is OK if it contains an https:// link.
+https://v.douyin.com/ncVGNRB7bOI/
